@@ -1,8 +1,8 @@
 Mapa del flujo Frontend-Backend – Clase 23
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:leider david ramos caro
+Fecha:19/5/2026
+Nombre de la rama:leider_ramos
 
 Completa el flujo con tus palabras.
 
@@ -10,49 +10,50 @@ Completa el flujo con tus palabras.
 
 ¿Qué parte del proyecto corresponde al frontend?
 
-Respuesta:
+Respuesta: es la parte visual del mini sitio comunitario, lo que vemos en pantalla
 
 2. Backend
 
 ¿Qué parte del proyecto corresponde al backend?
 
-Respuesta:
+Respuesta: en el esta parte esta ubicada la logoca del negocio como lo es el archivo app.js y server.js
 
 3. API propia
 
 ¿Qué rutas expone la API propia del proyecto?
 
-Respuesta:
+Respuesta:api/mensajes
+        api/calendario
 
 4. Datos
 
 ¿Qué archivos JSON usa el backend para responder?
 
-Respuesta:
+Respuesta:mensajes y calendario .json
 
 5. Consulta desde frontend
 
 ¿Qué función de JavaScript se usa para consultar la API?
 
-Respuesta:
+Respuesta:get
 
 6. Espera de respuesta
 
 ¿Qué palabras se usan para esperar la respuesta del servidor?
 
-Respuesta:
+Respuesta:await
 
 7. Conversión de respuesta
 
 ¿Qué hace respuesta.json()?
 
-Respuesta:
+Respuesta:devuelve el mensaje
 
 8. Render dinámico
 
 ¿Qué significa mostrar datos dinámicamente en el tablero?
 
-Respuesta:
+Respuesta: significa que la la informacion no puede ser estataica.
 
 9. Prueba
 
@@ -64,4 +65,5 @@ Respuesta:
 
 ¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
 
-Respuesta:
+Respuesta:mediante esta integracion podemos ver mensajes claros que si informan 
+como debe ser, dando noticias claras.
